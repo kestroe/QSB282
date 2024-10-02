@@ -3,23 +3,17 @@ title: "Lab 6: Quarto Presentation"
 author: "Katrina Estrella"
 format: revealjs
 editor: visual
+bibliography: references.bib
 ---
 
-## Quarto
+## Some Important Literature
 
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+-   This reference came from my previous lab at City of Hope, testing the therapeutic efficacy of a plant-based natural product against Acute Myeloid Leukemia. @kang_ost-01_2024
 
-## Bullets
+-   This reference also came from my previous lab. This reference elucidates the therapeutic potential of a miRNA target called miR-126 in Acute Lymphoblastic Leukemia. @qiao_targeting_2023
 
-When you click the **Render** button a document will be generated that includes:
+## A Cool Equation or Two
 
--   Content authored with markdown
--   Output from executable code
+equation: $e^{i \pi} + 1 = 0$
 
-## Code
-
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
+## References
